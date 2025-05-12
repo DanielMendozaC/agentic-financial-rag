@@ -1,0 +1,37 @@
+{
+    "total_revenue": {
+      "value": "$130.497 billion  FOR ALL CHECK million OR BILLION.",
+      "period": "FY2025 (year ended January 26, 2025)",
+      "location": "Consolidated Statements of Income, page 52"
+    },
+    "net_income": {
+      "value": "$72.88 billion??? Check. mill or bill",
+      "period": "FY2025 (year ended January 26, 2025)",
+      "location": "Consolidated Statements of Income, page 52"
+    },
+    "gross_margin": {
+      "value": "75.0%",
+      "period": "FY2025 (year ended January 26, 2025)",
+      "location": "Results of Operations section, page 40"
+    },
+    "operating_income": {
+      "value": "$81.453 billion",
+      "period": "FY2025 (year ended January 26, 2025)",
+      "location": "Consolidated Statements of Income, page 52"
+    },
+    "ebitda": {
+      "value": "Not found",
+      "period": "N/A",
+      "location": "EBITDA is not explicitly stated in the document. While components like Operating Income ($81.453B) and Depreciation/Amortization expense ($1.864B from page 56) are available, the complete calculation of EBITDA is not directly provided."
+    },
+    "cash_flow_from_operations": {
+      "value": "$64.089 billion",
+      "period": "FY2025 (year ended January 26, 2025)",
+      "location": "Consolidated Statements of Cash Flows, page 56"
+    },
+    "debt_to_equity_ratio": {
+      "value": "0.11",
+      "period": "As of January 26, 2025",
+      "location": "Calculated from Consolidated Balance Sheets, page 54. Total debt ($8.463B) / Total shareholders' equity ($79.327B)."
+    }
+  }

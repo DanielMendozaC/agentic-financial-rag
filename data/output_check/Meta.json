@@ -1,0 +1,37 @@
+{
+  "total_revenue": {
+    "value": "$164,501 million",
+    "period": "Year Ended December 31, 2024",
+    "location": "Page 87/206, CONSOLIDATED STATEMENTS OF INCOME; Page 124/206, Results of Operations"
+  },
+  "net_income": {
+    "value": "$62,360 million",
+    "period": "Year Ended December 31, 2024",
+    "location": "Page 87/206, CONSOLIDATED STATEMENTS OF INCOME; Page 124/206, Results of Operations"
+  },
+  "gross_margin_percentage": {
+    "value": "81.66%",
+    "period": "Year Ended December 31, 2024",
+    "location": "Calculated from: Total Revenue ($164,501 million) and Cost of Revenue ($30,161 million) on Page 87/206, CONSOLIDATED STATEMENTS OF INCOME. Gross Margin = (164501 - 30161) / 164501 * 100"
+  },
+  "operating_income": {
+    "value": "$69,380 million",
+    "period": "Year Ended December 31, 2024",
+    "location": "Page 87/206, CONSOLIDATED STATEMENTS OF INCOME; Page 124/206, Results of Operations"
+  },
+  "ebitda": {
+    "value": "$86,161 million",
+    "period": "Year Ended December 31, 2024",
+    "location": "Calculated from: Net Income ($62,360 million, Page 87/206), Interest and other income (expense), net ($1,283 million, Page 87/206 - this is net, but Interest Expense is $715 million on Page 117/206), Provision for income taxes ($8,303 million, Page 87/206), and Depreciation and amortization ($15,500 million - sum of $15,498 from P&L adjustments for cash flow and $2 million implicit in finance lease cost amortization for ROU assets (Page 106/206 and 149/206). EBITDA = Net Income + Taxes + Interest Expense (approximated as total interest expense) + Depreciation & Amortization = $62,360 + $8,303 + $715 + $15,498 (depreciation from cash flow statement) + $211 (amortization of intangibles from Note 9, pg 108) = $87,087 million. More precise: Income before provision for income taxes ($70,663 million) + Interest Expense ($715 million from page 117/206, Note 14) + Depreciation and Amortization ($15,498 million from page 90/206, Consolidated Statements of Cash Flows) + Amortization of Intangible Assets ($211 million from Page 108/206, Note 9) = $70,663 + $715 + $15,498 + $211 = $87,087 million."
+  },
+  "cash_flow_from_operations": {
+    "value": "$91,328 million",
+    "period": "Year Ended December 31, 2024",
+    "location": "Page 90/206, CONSOLIDATED STATEMENTS OF CASH FLOWS"
+  },
+  "debt_to_equity_ratio": {
+    "value": "0.158",
+    "period": "As of December 31, 2024",
+    "location": "Calculated from: Long-term debt ($28,826 million, Page 86/206, CONSOLIDATED BALANCE SHEETS) and Total stockholders' equity ($182,637 million, Page 86/206, CONSOLIDATED BALANCE SHEETS). Debt-to-Equity Ratio = $28,826 / $182,637. If considering Total Liabilities: Total Liabilities ($93,417 million) / Total Stockholders' Equity ($182,637 million) = 0.511"
+  }
+}

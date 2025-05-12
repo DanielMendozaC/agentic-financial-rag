@@ -1,0 +1,37 @@
+{
+  "total_revenue": {
+    "value": "$53.82 billion. FOR ALL CHECK MILLION OR BILLION",
+    "period": "Year ended December 31, 2021",
+    "location": "Page 37, Results of Operations section"
+  },
+  "net_income": {
+    "value": "$5.64 billion",
+    "period": "Year ended December 31, 2021",
+    "location": "Page 50, Consolidated Statements of Operations"
+  },
+  "gross_margin": {
+    "value": "25.3%",
+    "period": "Year ended December 31, 2021",
+    "location": "Page 38, Table showing gross margin percentages"
+  },
+  "operating_income": {
+    "value": "$6.52 billion",
+    "period": "Year ended December 31, 2021",
+    "location": "Page 50, Consolidated Statements of Operations (Income from operations)"
+  },
+  "ebitda": {
+    "value": "$9.63 billion",
+    "period": "Year ended December 31, 2021",
+    "location": "Calculated from components on pages 50 and 53 (Net Income $5.64B + Interest Expense $371M + Income Taxes $699M + Depreciation/Amortization $2.91B)"
+  },
+  "cash_flow_from_operations": {
+    "value": "$11.50 billion",
+    "period": "Year ended December 31, 2021",
+    "location": "Page 53, Consolidated Statements of Cash Flows (Net cash provided by operating activities)"
+  },
+  "debt_to_equity_ratio": {
+    "value": "0.23",
+    "period": "As of December 31, 2021",
+    "location": "Calculated from Consolidated Balance Sheet data on page 49 (Total debt $6.83B / Total stockholders' equity $30.19B)"
+  }
+}

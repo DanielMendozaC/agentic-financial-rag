@@ -1,0 +1,37 @@
+{
+    "total_revenue": {
+      "value": "$245,122 million",
+      "period": "FY2024 (Year ended June 30, 2024)",
+      "location": "Part II, Item 7, Summary Results of Operations, page 42"
+    },
+    "net_income": {
+      "value": "$88,136 million",
+      "period": "FY2024 (Year ended June 30, 2024)",
+      "location": "Part II, Item 7, Summary Results of Operations, page 42"
+    },
+    "gross_margin": {
+      "value": "69.8%",
+      "period": "FY2024 (Year ended June 30, 2024)",
+      "location": "Calculated from Part II, Item 7, Summary Results of Operations, page 42 (Gross margin $171,008M / Revenue $245,122M)"
+    },
+    "operating_income": {
+      "value": "$109,433 million",
+      "period": "FY2024 (Year ended June 30, 2024)",
+      "location": "Part II, Item 7, Summary Results of Operations, page 42"
+    },
+    "ebitda": {
+      "value": "Not found",
+      "period": "N/A",
+      "location": "EBITDA is not explicitly stated in the document. Although components like Operating Income ($109,433M), Depreciation ($15.2B from page 75), and other figures are available, the complete calculation is not provided."
+    },
+    "cash_flow_from_operations": {
+      "value": "$118,548 million",
+      "period": "FY2024 (Year ended June 30, 2024)",
+      "location": "Cash Flows Statements, page 58"
+    },
+    "debt_to_equity_ratio": {
+      "value": "0.19",
+      "period": "As of June 30, 2024",
+      "location": "Calculated from Balance Sheets, page 57 (Total Debt $51,630M / Total Stockholders' Equity $268,477M)"
+    }
+  }

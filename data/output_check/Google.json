@@ -1,0 +1,37 @@
+{
+    "total_revenue": {
+      "value": "$350,018 million",
+      "period": "Year Ended December 31, 2024",
+      "location": "Page 53, Consolidated Statements of Income; Page 35, Executive Overview"
+    },
+    "net_income": {
+      "value": "$100,118 million",
+      "period": "Year Ended December 31, 2024",
+      "location": "Page 53, Consolidated Statements of Income; Page 35, Executive Overview"
+    },
+    "gross_margin": {
+      "value": "Not found",
+      "period": "Not applicable",
+      "location": "Gross Margin (%) is not explicitly stated. The document provides 'Cost of revenues' ($146,306 million for FY2024 on page 53) and 'Total revenues' ($350,018 million for FY2024 on page 53). Gross Profit would be Total Revenues - Cost of Revenues = $203,712 million. Gross Margin (%) would be (Gross Profit / Total Revenues) * 100 = ($203,712 / $350,018) * 100 = 58.2%. However, this is a calculation, not an explicitly stated metric."
+    },
+    "operating_income": {
+      "value": "$112,390 million",
+      "period": "Year Ended December 31, 2024",
+      "location": "Page 53, Consolidated Statements of Income; Page 35, Executive Overview"
+    },
+    "ebitda": {
+      "value": "Not found",
+      "period": "Not applicable",
+      "location": "EBITDA is not explicitly stated. The document provides 'Net income' ($100,118 million for FY2024 on page 53), 'Provision for income taxes' ($19,697 million for FY2024 on page 53), 'Interest expense' (net of interest capitalized, $268 million for FY2024 on page 77, Note 7), and 'Depreciation of property and equipment' ($15,311 million for FY2024 on page 56, Consolidated Statements of Cash Flows). Amortization is not explicitly broken out but is part of 'Finance lease cost' ($413 million amortization of lease assets for FY2024 on page 72, Note 4). A calculation would be possible but the metric itself is not stated."
+    },
+    "cash_flow_from_operations": {
+      "value": "$125,299 million",
+      "period": "Year Ended December 31, 2024",
+      "location": "Page 56, Consolidated Statements of Cash Flows; Page 41, Financial Condition"
+    },
+    "debt_to_equity_ratio": {
+      "value": "Not found",
+      "period": "As of December 31, 2024",
+      "location": "Debt-to-Equity Ratio is not explicitly stated. The document provides 'Total liabilities' ($125,172 million as of Dec 31, 2024 on page 52) and 'Total stockholders’ equity' ($325,084 million as of Dec 31, 2024 on page 52). The ratio would be Total Liabilities / Total Stockholders' Equity = $125,172 / $325,084 = 0.385. However, this is a calculation, not an explicitly stated metric. Long-term debt is $10,883 million (page 52 and 74)."
+    }
+  }
